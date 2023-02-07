@@ -27,6 +27,12 @@ function App() {
     id: 0
   }
   */
+
+  const pokemon1 = {
+    name: 'Squirtle',
+    type: 'Water',
+    '
+  }
   
 
   return ( <>
